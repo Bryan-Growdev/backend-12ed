@@ -8,7 +8,7 @@ const atividade1 = () => {
   const pizza = new Pizza(30, "Calabreza", "Muito bommm");
   const ps5 = new PlayStation5(4900, "Playstation 5", "Alguma desc");
   const ps2 = new PlayStation2(300, "Playstation 2", "Alguma desc");
-
+//teste git
   const pedido = new Pedido([pizza, ps5]);
 
   // ps5.ligar();
